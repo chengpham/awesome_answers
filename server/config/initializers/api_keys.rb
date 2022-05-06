@@ -1,0 +1,2 @@
+ENV["EMAIL_USERNAME"]='email'
+ENV["EMAIL_PASSWORD"]='password'

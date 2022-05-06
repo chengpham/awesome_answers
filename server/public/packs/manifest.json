@@ -1,0 +1,34 @@
+{
+  "application.js": "/packs/js/application-1bf159c55e527d1fdae9.js",
+  "application.js.map": "/packs/js/application-1bf159c55e527d1fdae9.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-1bf159c55e527d1fdae9.js"
+      ],
+      "js.map": [
+        "/packs/js/application-1bf159c55e527d1fdae9.js.map"
+      ]
+    },
+    "question": {
+      "js": [
+        "/packs/js/question-b1da3e5c754de0b2a6bf.js"
+      ],
+      "js.map": [
+        "/packs/js/question-b1da3e5c754de0b2a6bf.js.map"
+      ]
+    },
+    "selectize": {
+      "js": [
+        "/packs/js/selectize-0148df286fa9c90590fa.js"
+      ],
+      "js.map": [
+        "/packs/js/selectize-0148df286fa9c90590fa.js.map"
+      ]
+    }
+  },
+  "question.js": "/packs/js/question-b1da3e5c754de0b2a6bf.js",
+  "question.js.map": "/packs/js/question-b1da3e5c754de0b2a6bf.js.map",
+  "selectize.js": "/packs/js/selectize-0148df286fa9c90590fa.js",
+  "selectize.js.map": "/packs/js/selectize-0148df286fa9c90590fa.js.map"
+}
